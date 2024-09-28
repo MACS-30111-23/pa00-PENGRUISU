@@ -14,7 +14,8 @@ Edit this README file to include a brief biography of yourself. Your README shou
 
 # Biography of Pengrui
 
-![Profile Picture]
+![Profile Picture](https://github.com/PENGRUISU/picture-folder/blob/main/%E5%AD%A6%E5%8B%A4%E6%AF%95%E4%B8%9A%E6%99%9A%E4%BC%9A%E7%85%A7%E7%89%87.jpg)
+
 
 ## About Me
 
